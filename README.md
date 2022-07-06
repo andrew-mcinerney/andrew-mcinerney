@@ -17,7 +17,7 @@
 ---
 
 ### About Me :
-:man_student: I am a Ph.D. student from Ireland.
+:man_student: I am a Ph.D. student at the University of Limerick in Ireland.
 
 - :man_technologist: Statistician / Data Scientist.
 
